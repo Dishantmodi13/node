@@ -2768,7 +2768,7 @@ exceeds the size of the `ArrayBuffer`, a `RangeError` exception is raised.
 added: v8.3.0
 napiVersion: 1
 changes:
-  - version: REPLACEME
+  - version: v22.22.1
     pr-url: https://github.com/nodejs/node/pull/60473
     description: Added support for `SharedArrayBuffer`.
 -->
